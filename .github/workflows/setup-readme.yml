@@ -1,0 +1,39 @@
+name: setup-readme
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  setup-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Apply EXAMPLE as final README
+        run: |
+          if [ ! -f EXAMPLE.md ]; then
+            echo "EXAMPLE.md not found."
+            exit 1
+          fi
+
+          cp EXAMPLE.md README.md
+          rm -f EXAMPLE.md
+
+      - name: Commit and push setup changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet README.md EXAMPLE.md; then
+            echo "No setup changes detected."
+            exit 0
+          fi
+
+          git add README.md EXAMPLE.md
+          git commit -m "chore(setup): apply example as final readme"
+          git push

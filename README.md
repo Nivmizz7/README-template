@@ -2,6 +2,13 @@
 
 GitHub Actions template to automatically generate a clean `README.md` with a dynamic table of your GitHub repositories.
 
+[![Setup](https://img.shields.io/badge/Setup-Apply%20EXAMPLE-blue?style=for-the-badge)](./actions/workflows/setup-readme.yml)
+
+Use the **Setup** button, click **Run workflow**, and it will:
+- copy `EXAMPLE.md` to `README.md`,
+- delete `EXAMPLE.md`,
+- commit and push the final `README.md`.
+
 ## Goal
 
 This template runs an `update-readme-repo` workflow that:
@@ -14,6 +21,7 @@ This template runs an `update-readme-repo` workflow that:
 
 ```text
 .github/workflows/update-readme-repo.yml
+.github/workflows/setup-readme.yml
 scripts/update-readme-repo.py
 README.md
 EXAMPLE.md

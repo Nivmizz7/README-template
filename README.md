@@ -2,9 +2,10 @@
 
 GitHub Actions template to automatically generate a clean `README.md` with a dynamic table of your GitHub repositories.
 
-[![Setup](https://img.shields.io/badge/Setup-Apply%20EXAMPLE-blue?style=for-the-badge)](./.github/workflows/setup-readme.yml)
+[![Setup](https://img.shields.io/badge/Setup-Run%20Workflow-blue?style=for-the-badge)](https://github.com/Nivmizz7/README-template/actions/workflows/setup-readme.yml)
+[![Setup Status](https://img.shields.io/badge/Setup-Execution%20Status-black?style=for-the-badge)](https://github.com/Nivmizz7/README-template/actions/workflows/setup-readme.yml?query=event%3Aworkflow_dispatch)
 
-Use the **Setup** button, click **Run workflow**, and it will:
+Use **Setup**, click **Run workflow**, and GitHub opens the run page where execution is shown live. The workflow will:
 - copy `EXAMPLE.md` to `README.md`,
 - delete `EXAMPLE.md`,
 - commit and push the final `README.md`.

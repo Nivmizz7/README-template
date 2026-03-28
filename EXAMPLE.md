@@ -1,5 +1,3 @@
-# Example
-
 ## Repositories (auto-update)
 
 <!-- REPO_TABLE:START -->

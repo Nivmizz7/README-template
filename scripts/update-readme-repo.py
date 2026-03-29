@@ -45,6 +45,12 @@ def escape_md(value: str) -> str:
     return value.replace("|", "\\|").replace("\n", " ").strip()
 
 
+def format_language(language: str | None) -> str:
+    if not language:
+        return "—"
+    return escape_md(language)
+
+
 def fetch_repositories(username: str, token: str | None) -> list[dict]:
     repos: list[dict] = []
     page = 1
@@ -76,21 +82,24 @@ def fetch_repositories(username: str, token: str | None) -> list[dict]:
 
 
 def build_table(repos: list[dict]) -> str:
-    header = "| Repository | Stars | Description | Status |\n|---|---:|---|---|"
+    header = "| Repository | Language | Stars | Description | Status |\n|---|---|---:|---|---|"
     lines = [header]
 
     for repo in repos:
         name = repo.get("name", "unknown")
         html_url = repo.get("html_url", "")
+        language = repo.get("language")
         stars = repo.get("stargazers_count", 0)
         description = repo.get("description") or "—"
         status = repository_status(repo)
 
         repo_cell = f"[{escape_md(name)}]({html_url})" if html_url else escape_md(name)
-        lines.append(f"| {repo_cell} | {stars} | {escape_md(description)} | {status} |")
+        lines.append(
+            f"| {repo_cell} | {format_language(language)} | {stars} | {escape_md(description)} | {status} |"
+        )
 
     if len(lines) == 1:
-        lines.append("| — | 0 | No repositories found. | — |")
+        lines.append("| — | — | 0 | No repositories found. | — |")
 
     return "\n".join(lines)
 

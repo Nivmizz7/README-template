@@ -121,7 +121,7 @@ def replace_section(readme: str, section_content: str) -> str:
 def main() -> None:
     parser = argparse.ArgumentParser(description="update-readme-repo: update README repositories table")
     parser.add_argument("--readme", default="README.md", help="Path to README file")
-    parser.add_argument("--username", default=os.getenv("GITHUB_USERNAME", "Nivmizz7"), help="GitHub username")
+    parser.add_argument("--username", default=os.getenv("GITHUB_USERNAME"), help="GitHub username")
     args = parser.parse_args()
 
     token = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")

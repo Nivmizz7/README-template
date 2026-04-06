@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-03-30 07:18 UTC_
+_Last update: 2026-04-06 07:20 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -58,6 +58,7 @@ _Last update: 2026-03-30 07:18 UTC_
 | [graph-template](https://github.com/Nivmizz7/graph-template) | JavaScript | 0 | Template for draw.io diagram. | Template |
 | [guild-manager](https://github.com/Nivmizz7/guild-manager) | Vue | 0 | — | — |
 | [hello_100](https://github.com/Nivmizz7/hello_100) | Solidity | 0 | "Hello, I am Niv." in 100 programming language. | — |
+| [Jarvis](https://github.com/Nivmizz7/Jarvis) | — | 0 | Jarvis desktop assistant project | Fork |
 | [kantine](https://github.com/Nivmizz7/kantine) | JavaScript | 0 | — | — |
 | [kolotun](https://github.com/Nivmizz7/kolotun) | JavaScript | 0 | Shema of Kolotun Tarkov quest 2025 | Archive |
 | [learning-markdown](https://github.com/Nivmizz7/learning-markdown) | — | 0 | Learning #1 - Markdown | Archive |
@@ -72,9 +73,9 @@ _Last update: 2026-03-30 07:18 UTC_
 | [README-template](https://github.com/Nivmizz7/README-template) | Python | 0 | Template for README profile. | Template |
 | [stash-fork](https://github.com/Nivmizz7/stash-fork) | JavaScript | 0 | The Tarkov.dev's Escape from Tarkov Discord bot | Fork |
 | [tarkov-api](https://github.com/Nivmizz7/tarkov-api) | JavaScript | 0 | Tarkov.dev's API fork. | Fork |
-| [tarkov-data-manager](https://github.com/Nivmizz7/tarkov-data-manager) | — | 0 | The Tarkov Data manager web app to manage the sql database | Fork |
+| [tarkov-data-manager](https://github.com/Nivmizz7/tarkov-data-manager) | JavaScript | 0 | The Tarkov Data manager web app to manage the sql database | Fork |
 | [tarkov-data-overlay](https://github.com/Nivmizz7/tarkov-data-overlay) | TypeScript | 0 | Data overlay for Tarkov.dev API data. | Fork |
-| [tarkov-dev-fork](https://github.com/Nivmizz7/tarkov-dev-fork) | JavaScript | 0 | The official site for tarkov.dev - A web app to track item prices, view trader barters, quests, maps, and much more! | Fork |
+| [tarkov-dev](https://github.com/Nivmizz7/tarkov-dev) | JavaScript | 0 | The official site for tarkov.dev - A web app to track item prices, view trader barters, quests, maps, and much more! | Fork |
 | [tarkov-monitor-website](https://github.com/Nivmizz7/tarkov-monitor-website) | JavaScript | 0 | — | Archive |
 | [tarkov-raid-planner](https://github.com/Nivmizz7/tarkov-raid-planner) | JavaScript | 0 | — | — |
 | [tarkovdata](https://github.com/Nivmizz7/tarkovdata) | TypeScript | 0 | Escape From Tarkov game data, maintained by Niv. | Archive |

@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-04-06 07:20 UTC_
+_Last update: 2026-04-13 07:52 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -51,6 +51,7 @@ _Last update: 2026-04-06 07:20 UTC_
 | [azerothcore-timer](https://github.com/Nivmizz7/azerothcore-timer) | Lua | 0 | Addon for AzerothCore (WotLK 3.3.5) | — |
 | [boss_spawns](https://github.com/Nivmizz7/boss_spawns) | — | 0 | — | Fork |
 | [cultist-circle](https://github.com/Nivmizz7/cultist-circle) | TypeScript | 0 | — | Fork |
+| [Dr-Taiko](https://github.com/Nivmizz7/Dr-Taiko) | — | 0 | — | Fork |
 | [fibonacci](https://github.com/Nivmizz7/fibonacci) | C | 0 | My work on the Fibonacci sequence. | Archive |
 | [gh-pages](https://github.com/Nivmizz7/gh-pages) | HTML | 0 | — | — |
 | [gh-runner-manager](https://github.com/Nivmizz7/gh-runner-manager) | Shell | 0 | GitHub runner manager for self-hosted runners. | — |

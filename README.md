@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-04-13 07:52 UTC_
+_Last update: 2026-04-20 07:55 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -51,7 +51,6 @@ _Last update: 2026-04-13 07:52 UTC_
 | [azerothcore-timer](https://github.com/Nivmizz7/azerothcore-timer) | Lua | 0 | Addon for AzerothCore (WotLK 3.3.5) | — |
 | [boss_spawns](https://github.com/Nivmizz7/boss_spawns) | — | 0 | — | Fork |
 | [cultist-circle](https://github.com/Nivmizz7/cultist-circle) | TypeScript | 0 | — | Fork |
-| [Dr-Taiko](https://github.com/Nivmizz7/Dr-Taiko) | — | 0 | — | Fork |
 | [fibonacci](https://github.com/Nivmizz7/fibonacci) | C | 0 | My work on the Fibonacci sequence. | Archive |
 | [gh-pages](https://github.com/Nivmizz7/gh-pages) | HTML | 0 | — | — |
 | [gh-runner-manager](https://github.com/Nivmizz7/gh-runner-manager) | Shell | 0 | GitHub runner manager for self-hosted runners. | — |
@@ -73,7 +72,7 @@ _Last update: 2026-04-13 07:52 UTC_
 | [RatScanner-fork](https://github.com/Nivmizz7/RatScanner-fork) | C# | 0 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
 | [README-template](https://github.com/Nivmizz7/README-template) | Python | 0 | Template for README profile. | Template |
 | [stash-fork](https://github.com/Nivmizz7/stash-fork) | JavaScript | 0 | The Tarkov.dev's Escape from Tarkov Discord bot | Fork |
-| [tarkov-api](https://github.com/Nivmizz7/tarkov-api) | JavaScript | 0 | Tarkov.dev's API fork. | Fork |
+| [tarkov-api](https://github.com/Nivmizz7/tarkov-api) | JavaScript | 0 | Tarkov.dev's API fork. | Archive |
 | [tarkov-data-manager](https://github.com/Nivmizz7/tarkov-data-manager) | JavaScript | 0 | The Tarkov Data manager web app to manage the sql database | Fork |
 | [tarkov-data-overlay](https://github.com/Nivmizz7/tarkov-data-overlay) | TypeScript | 0 | Data overlay for Tarkov.dev API data. | Fork |
 | [tarkov-dev](https://github.com/Nivmizz7/tarkov-dev) | JavaScript | 0 | The official site for tarkov.dev - A web app to track item prices, view trader barters, quests, maps, and much more! | Fork |

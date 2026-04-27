@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-04-20 07:55 UTC_
+_Last update: 2026-04-27 08:10 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -49,6 +49,7 @@ _Last update: 2026-04-20 07:55 UTC_
 | [azerothcore-boss](https://github.com/Nivmizz7/azerothcore-boss) | Lua | 0 | Addon for AzerothCore (WotLK 3.3.5) | — |
 | [azerothcore-db](https://github.com/Nivmizz7/azerothcore-db) | JavaScript | 0 | — | — |
 | [azerothcore-timer](https://github.com/Nivmizz7/azerothcore-timer) | Lua | 0 | Addon for AzerothCore (WotLK 3.3.5) | — |
+| [BonkDrop-API](https://github.com/Nivmizz7/BonkDrop-API) | JavaScript | 0 | BonkDrop API for files transferts | Fork |
 | [boss_spawns](https://github.com/Nivmizz7/boss_spawns) | — | 0 | — | Fork |
 | [cultist-circle](https://github.com/Nivmizz7/cultist-circle) | TypeScript | 0 | — | Fork |
 | [fibonacci](https://github.com/Nivmizz7/fibonacci) | C | 0 | My work on the Fibonacci sequence. | Archive |

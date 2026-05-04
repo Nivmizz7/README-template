@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-04-27 08:10 UTC_
+_Last update: 2026-05-04 08:21 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -46,6 +46,7 @@ _Last update: 2026-04-27 08:10 UTC_
 | [annual-update-license-year](https://github.com/Nivmizz7/annual-update-license-year) | Shell | 0 | GitHub Action for update the year in the license. | — |
 | [api](https://github.com/Nivmizz7/api) | JavaScript | 0 | API for TarkovData | Archive |
 | [api-docs](https://github.com/Nivmizz7/api-docs) | JavaScript | 0 | Documentation for Nivmizz7/api | Archive |
+| [awesometarkov.com](https://github.com/Nivmizz7/awesometarkov.com) | — | 0 | An awesome list of Escape From Tarkov community resources, tools and content! | Fork |
 | [azerothcore-boss](https://github.com/Nivmizz7/azerothcore-boss) | Lua | 0 | Addon for AzerothCore (WotLK 3.3.5) | — |
 | [azerothcore-db](https://github.com/Nivmizz7/azerothcore-db) | JavaScript | 0 | — | — |
 | [azerothcore-timer](https://github.com/Nivmizz7/azerothcore-timer) | Lua | 0 | Addon for AzerothCore (WotLK 3.3.5) | — |

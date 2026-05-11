@@ -35,13 +35,13 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-05-04 08:21 UTC_
+_Last update: 2026-05-11 09:28 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
 | [TarkovTracker-Archive](https://github.com/tarkovtracker-org/TarkovTracker-Archive) | TypeScript | 22 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
+| [RatScanner](https://github.com/tarkovtracker-org/RatScanner) | C# | 2 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
 | [docs](https://github.com/Nivmizz7/docs) | — | 1 | — | — |
-| [RatScanner](https://github.com/tarkovtracker-org/RatScanner) | C# | 1 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
 | [TrackerBot](https://github.com/tarkovtracker-org/TrackerBot) | JavaScript | 1 | Discord Bot of TarkovTracker.org Discord server. | — |
 | [annual-update-license-year](https://github.com/Nivmizz7/annual-update-license-year) | Shell | 0 | GitHub Action for update the year in the license. | — |
 | [api](https://github.com/Nivmizz7/api) | JavaScript | 0 | API for TarkovData | Archive |
@@ -60,6 +60,7 @@ _Last update: 2026-05-04 08:21 UTC_
 | [graph-template](https://github.com/Nivmizz7/graph-template) | JavaScript | 0 | Template for draw.io diagram. | Template |
 | [guild-manager](https://github.com/Nivmizz7/guild-manager) | Vue | 0 | — | — |
 | [hello_100](https://github.com/Nivmizz7/hello_100) | Solidity | 0 | "Hello, I am Niv." in 100 programming language. | — |
+| [ilo4_unlock](https://github.com/Nivmizz7/ilo4_unlock) | — | 0 | A toolkit for patching HPE's iLO 4 Firmware with access to previously inaccessible utilities | Fork |
 | [Jarvis](https://github.com/Nivmizz7/Jarvis) | — | 0 | Jarvis desktop assistant project | Fork |
 | [kantine](https://github.com/Nivmizz7/kantine) | JavaScript | 0 | — | — |
 | [kolotun](https://github.com/Nivmizz7/kolotun) | JavaScript | 0 | Shema of Kolotun Tarkov quest 2025 | Archive |
@@ -85,6 +86,7 @@ _Last update: 2026-05-04 08:21 UTC_
 | [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) | TypeScript | 0 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
 | [TarkovTrackerNuxt-fork](https://github.com/Nivmizz7/TarkovTrackerNuxt-fork) | TypeScript | 0 | Rewrite of TarkovTracker.org in Nuxt. | Fork |
 | [template](https://github.com/Nivmizz7/template) | — | 0 | My template for my repository. | Template |
+| [up2down](https://github.com/Nivmizz7/up2down) | C | 0 | C tools for tranform file to uppercase/lowercase | — |
 | [VSMU](https://github.com/Nivmizz7/VSMU) | JavaScript | 0 | Vintage Story Mods Updater | — |
 | [web](https://github.com/Nivmizz7/web) | HTML | 0 | Webpage : nivmizz7.fr | — |
 | [web-pickle](https://github.com/Nivmizz7/web-pickle) | CSS | 0 | Website for Pickle Team | — |

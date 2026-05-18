@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-05-11 09:28 UTC_
+_Last update: 2026-05-18 09:45 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -75,7 +75,7 @@ _Last update: 2026-05-11 09:28 UTC_
 | [RatScanner-fork](https://github.com/Nivmizz7/RatScanner-fork) | C# | 0 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
 | [README-template](https://github.com/Nivmizz7/README-template) | Python | 0 | Template for README profile. | Template |
 | [stash-fork](https://github.com/Nivmizz7/stash-fork) | JavaScript | 0 | The Tarkov.dev's Escape from Tarkov Discord bot | Fork |
-| [tarkov-api](https://github.com/Nivmizz7/tarkov-api) | JavaScript | 0 | Tarkov.dev's API fork. | Archive |
+| [tarkov-api-archive](https://github.com/Nivmizz7/tarkov-api-archive) | JavaScript | 0 | Tarkov.dev's API fork. | Fork |
 | [tarkov-data-manager](https://github.com/Nivmizz7/tarkov-data-manager) | JavaScript | 0 | The Tarkov Data manager web app to manage the sql database | Fork |
 | [tarkov-data-overlay](https://github.com/Nivmizz7/tarkov-data-overlay) | TypeScript | 0 | Data overlay for Tarkov.dev API data. | Fork |
 | [tarkov-dev](https://github.com/Nivmizz7/tarkov-dev) | JavaScript | 0 | The official site for tarkov.dev - A web app to track item prices, view trader barters, quests, maps, and much more! | Fork |

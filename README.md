@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-05-18 09:45 UTC_
+_Last update: 2026-05-25 09:53 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -43,6 +43,7 @@ _Last update: 2026-05-18 09:45 UTC_
 | [RatScanner](https://github.com/tarkovtracker-org/RatScanner) | C# | 2 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
 | [docs](https://github.com/Nivmizz7/docs) | — | 1 | — | — |
 | [TrackerBot](https://github.com/tarkovtracker-org/TrackerBot) | JavaScript | 1 | Discord Bot of TarkovTracker.org Discord server. | — |
+| [up2down](https://github.com/Nivmizz7/up2down) | C | 1 | C tools for tranform file to uppercase/lowercase | — |
 | [annual-update-license-year](https://github.com/Nivmizz7/annual-update-license-year) | Shell | 0 | GitHub Action for update the year in the license. | — |
 | [api](https://github.com/Nivmizz7/api) | JavaScript | 0 | API for TarkovData | Archive |
 | [api-docs](https://github.com/Nivmizz7/api-docs) | JavaScript | 0 | Documentation for Nivmizz7/api | Archive |
@@ -86,7 +87,6 @@ _Last update: 2026-05-18 09:45 UTC_
 | [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) | TypeScript | 0 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
 | [TarkovTrackerNuxt-fork](https://github.com/Nivmizz7/TarkovTrackerNuxt-fork) | TypeScript | 0 | Rewrite of TarkovTracker.org in Nuxt. | Fork |
 | [template](https://github.com/Nivmizz7/template) | — | 0 | My template for my repository. | Template |
-| [up2down](https://github.com/Nivmizz7/up2down) | C | 0 | C tools for tranform file to uppercase/lowercase | — |
 | [VSMU](https://github.com/Nivmizz7/VSMU) | JavaScript | 0 | Vintage Story Mods Updater | — |
 | [web](https://github.com/Nivmizz7/web) | HTML | 0 | Webpage : nivmizz7.fr | — |
 | [web-pickle](https://github.com/Nivmizz7/web-pickle) | CSS | 0 | Website for Pickle Team | — |

@@ -35,12 +35,12 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-06-01 11:14 UTC_
+_Last update: 2026-06-08 10:22 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
 | [TarkovTracker-Archive](https://github.com/tarkovtracker-org/TarkovTracker-Archive) | TypeScript | 22 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
-| [RatScanner](https://github.com/tarkovtracker-org/RatScanner) | C# | 2 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
+| [RatScanner](https://github.com/tarkovtracker-org/RatScanner) | C# | 3 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
 | [docs](https://github.com/Nivmizz7/docs) | — | 1 | — | — |
 | [TrackerBot](https://github.com/tarkovtracker-org/TrackerBot) | JavaScript | 1 | Discord Bot of TarkovTracker.org Discord server. | — |
 | [up2down](https://github.com/Nivmizz7/up2down) | C | 1 | C tools for tranform file to uppercase/lowercase | — |
@@ -83,6 +83,8 @@ _Last update: 2026-06-01 11:14 UTC_
 | [tarkov-monitor-website](https://github.com/Nivmizz7/tarkov-monitor-website) | JavaScript | 0 | — | Archive |
 | [tarkov-raid-planner](https://github.com/Nivmizz7/tarkov-raid-planner) | JavaScript | 0 | — | — |
 | [tarkovdata](https://github.com/Nivmizz7/tarkovdata) | TypeScript | 0 | Escape From Tarkov game data, maintained by Niv. | Archive |
+| [TarkovLab](https://github.com/TarkovLab/TarkovLab) | HTML | 0 | TarkovLab.org website repository | — |
+| [TarkovLab-template](https://github.com/TarkovLab/TarkovLab-template) | — | 0 | — | — |
 | [TarkovMonitor-fork](https://github.com/Nivmizz7/TarkovMonitor-fork) | C# | 0 | Monitor Tarkov log files to help track progress, queues, and groups | Fork |
 | [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) | TypeScript | 0 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
 | [TarkovTrackerNuxt-fork](https://github.com/Nivmizz7/TarkovTrackerNuxt-fork) | TypeScript | 0 | Rewrite of TarkovTracker.org in Nuxt. | Fork |

@@ -35,12 +35,12 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-06-08 10:22 UTC_
+_Last update: 2026-06-15 11:50 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
 | [TarkovTracker-Archive](https://github.com/tarkovtracker-org/TarkovTracker-Archive) | TypeScript | 22 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
-| [RatScanner](https://github.com/tarkovtracker-org/RatScanner) | C# | 3 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
+| [RatScanner](https://github.com/tarkovtracker-org/RatScanner) | C# | 4 | Rat Scanner a helpful tool for Escape from Tarkov. | Fork |
 | [docs](https://github.com/Nivmizz7/docs) | — | 1 | — | — |
 | [TrackerBot](https://github.com/tarkovtracker-org/TrackerBot) | JavaScript | 1 | Discord Bot of TarkovTracker.org Discord server. | — |
 | [up2down](https://github.com/Nivmizz7/up2down) | C | 1 | C tools for tranform file to uppercase/lowercase | — |

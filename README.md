@@ -35,7 +35,7 @@ EXAMPLE.md
 
 ```md
 <!-- REPO_TABLE:START -->
-_Last update: 2026-06-22 11:39 UTC_
+_Last update: 2026-06-29 10:27 UTC_
 
 | Repository | Language | Stars | Description | Status |
 |---|---|---:|---|---|
@@ -55,7 +55,7 @@ _Last update: 2026-06-22 11:39 UTC_
 | [boss_spawns](https://github.com/Nivmizz7/boss_spawns) | — | 0 | — | Fork |
 | [cultist-circle](https://github.com/Nivmizz7/cultist-circle) | TypeScript | 0 | — | Fork |
 | [fibonacci](https://github.com/Nivmizz7/fibonacci) | C | 0 | My work on the Fibonacci sequence. | Archive |
-| [gh-pages](https://github.com/Nivmizz7/gh-pages) | HTML | 0 | — | — |
+| [gh-pages](https://github.com/Nivmizz7/gh-pages) | CSS | 0 | — | — |
 | [gh-runner-manager](https://github.com/Nivmizz7/gh-runner-manager) | Shell | 0 | GitHub runner manager for self-hosted runners. | — |
 | [gm_chip8](https://github.com/Nivmizz7/gm_chip8) | — | 0 | GM Chip-8 is a Chip-8 emulator made under Game Maker 7.0 by Monokeros in January 2025. It features all of the opcodes and runs most of the games. This piece of software comes with no warranty and is property of Monokeros | — |
 | [graph-template](https://github.com/Nivmizz7/graph-template) | JavaScript | 0 | Template for draw.io diagram. | Template |
@@ -83,8 +83,9 @@ _Last update: 2026-06-22 11:39 UTC_
 | [tarkov-monitor-website](https://github.com/Nivmizz7/tarkov-monitor-website) | JavaScript | 0 | — | Archive |
 | [tarkov-raid-planner](https://github.com/Nivmizz7/tarkov-raid-planner) | JavaScript | 0 | — | — |
 | [tarkovdata](https://github.com/Nivmizz7/tarkovdata) | TypeScript | 0 | Escape From Tarkov game data, maintained by Niv. | Archive |
-| [TarkovLab](https://github.com/TarkovLab/TarkovLab) | HTML | 0 | TarkovLab.org website repository | — |
-| [TarkovLab-template](https://github.com/TarkovLab/TarkovLab-template) | — | 0 | — | — |
+| [TarkovLab](https://github.com/TarkovLab/TarkovLab) | JavaScript | 0 | TarkovLab.org website repository | — |
+| [TarkovLab-API](https://github.com/TarkovLab/TarkovLab-API) | HTML | 0 | TarkovLab API based on TarkovData | — |
+| [TarkovLab-template](https://github.com/TarkovLab/TarkovLab-template) | — | 0 | — | Template |
 | [TarkovMonitor-fork](https://github.com/Nivmizz7/TarkovMonitor-fork) | C# | 0 | Monitor Tarkov log files to help track progress, queues, and groups | Fork |
 | [TarkovTracker-fork](https://github.com/Nivmizz7/TarkovTracker-fork) | TypeScript | 0 | TarkovTracker - Web App for tracking & planning your progression in the game Escape From Tarkov. | Archive |
 | [TarkovTrackerNuxt-fork](https://github.com/Nivmizz7/TarkovTrackerNuxt-fork) | TypeScript | 0 | Rewrite of TarkovTracker.org in Nuxt. | Fork |
